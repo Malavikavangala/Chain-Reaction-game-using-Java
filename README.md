@@ -1,2 +1,1 @@
-# Quiz-
-This project is a simple quiz game built using HTML, CSS, and JavaScript. It presents users with a series of multiple-choice questions and evaluates their responses to calculate a score.  The quiz game is designed to be interactive and engaging, providing a fun way for users to test their knowledge on various topics.
+The ChainReaction1 program is a console-based implementation of the popular Chain Reaction game. The game involves placing coloured pieces in a grid. When the number of pieces in a cell reaches its critical mass, it explodes, sending pieces to adjacent cells and potentially causing chain reactions. The goal is to take control of the entire grid by causing explosions and capturing cells from the opponent.
